@@ -1,11 +1,12 @@
 {
-    "website": "https://openshore.io",
-    "description": "The mermaid token is the reward token of Web3Mermaids and the openshore ecosystem",
+    "website": "https://theNFTnexus.com",
+    "description": "The mermaid token is the reward and operational token of Web3Mermaids",
     "social": {
         "email": "web3mermaids@gmail.com",
-        "blog": "https://openshore.io/writer/web3mermaids/",
+        "blog": "https://openshore.io/game22/why-web3mermaids/",
         "twitter": "https://www.twitter.com/web3mermaids",
-        "whitepaper": "https://web3mermaids.com/",
+        "whitepaper": "https://web3mermaids.com/whitepaper",
+        "roadmap": "https://web3mermaids.com/roadmap",
     },
     "status": "active"
 }
